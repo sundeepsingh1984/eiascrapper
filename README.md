@@ -1,2 +1,2 @@
 # openinsiderscrapper
-Script to scrap and download open insider document
+Script to scrap and download EIA document
